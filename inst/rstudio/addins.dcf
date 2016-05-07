@@ -1,0 +1,4 @@
+Name: R Script header
+Description: Get the fields required to write a script header
+Binding: headerAddin
+Interactive: true
