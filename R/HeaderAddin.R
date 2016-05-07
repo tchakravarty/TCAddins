@@ -19,7 +19,7 @@ headerAddin = function() {
   # UI
   #==============================================
   ui = miniPage(
-    gadgetTitleBar("R Script header"),
+    gadgetTitleBar("R Script Header"),
     miniContentPanel(
       addinexamples:::stableColumnLayout(
         textInput(inputId = "purpose", label = "Purpose:", value = "", width = "100%"),
